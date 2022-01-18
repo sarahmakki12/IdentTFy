@@ -1,4 +1,4 @@
-# Image Classification App
+# IdenTFy
 Image classification android app that can identify images in 1000 categories with high accuracy, built using Kotlin and Tensorflow.js Lite.
 
 ## Demo
